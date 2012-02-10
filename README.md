@@ -30,3 +30,8 @@ To retrieve the content you just deployed to the 'retrieve' directory, run:
 ```bash
 $ rake metaforce:retrieve
 ```
+
+## More Complex Tasks
+If you require more complex deployment and retrieval tasks, take a look at the
+default rake tasks found at <https://github.com/ejholmes/metaforce/blob/develop/lib/metaforce/tasks/metaforce.rake>
+and the metaforce documentation at <http://rubydoc.info/gems/metaforce/frames>.
