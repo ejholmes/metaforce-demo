@@ -17,10 +17,10 @@ $ bundle install
 ```
 
 ## Deploying
-To deploy the files under `codepkg` to an organization, run:
+To deploy the files under `src` to an organization, run:
 
 ```bash
-$ rake deploy
+$ rake metaforce:deploy
 ```
 
 
@@ -28,5 +28,5 @@ $ rake deploy
 To retrieve the content you just deployed to the 'retrieve' directory, run:
 
 ```bash
-$ rake retrieve
+$ rake metaforce:retrieve
 ```
