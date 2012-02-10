@@ -24,7 +24,7 @@ $ rake metaforce:deploy
 ```
 
 
-## Retrieve
+## Retrieving
 To retrieve the content you just deployed to the 'retrieve' directory, run:
 
 ```bash
