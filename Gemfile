@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
 gem 'rake'
-gem 'metaforce'
+gem 'metaforce', '0.4.0'
